@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# Welcome to the LEM Bio Clinic!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Please share your ideas and questions in this shared Google Document:
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+https://docs.google.com/document/d/1c5D0FocMnBO5BXi_j7mdcjVLDlCbttGnd_En4exIHMo/edit?usp=sharing
